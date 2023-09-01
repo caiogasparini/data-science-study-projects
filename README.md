@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/caiogasparini/ciencia-de-dados/blob/main/1397c164-484f-4611-8d73-e7923888e010.jpg)
+![Logo](https://github.com/caiogasparini/ciencia-de-dados/blob/main/images-for-readme/1397c164-484f-4611-8d73-e7923888e010.jpg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=1000&color=8b35b0&center=true&width=500&lines=I'm+Caio+Gasparini;He%2FHis;Data+Science+Student;This+Is+My+Data+Science+Portfolio)](https://git.io/typing-svg)
 
