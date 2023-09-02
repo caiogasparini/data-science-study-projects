@@ -7,7 +7,7 @@
 [![github](https://img.shields.io/badge/my_data_science_portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiogasparini/ciencia-de-dados)
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-g-2802999b/)
 [![instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=8b35b0)](https://www.instagram.com/caiogasparini1_/)
-[![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](https://www.instagram.com/caiogasparini1_/)
+[![gmail](https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:caio1057@gmail.com)
 
 ## 💡 Languages I code in
 
